@@ -17,7 +17,7 @@ body {
 }
 
 .navbar {
-    background-color: #eca265;
+    background-color: ##FFC100;
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -66,11 +66,11 @@ body {
     right: 0;
     width: 50%;
     height: 100%;
-    background-color: #eca265;
+    background-color: ##FFC100;
     flex-direction: column;
     align-items: center;
     font-size: 1.8rem;
-    z-index: 5;
+    z-index: 4;
 
 
     .nav-links-mobile {
