@@ -17,7 +17,7 @@ body {
 }
 
 .navbar {
-    background-color: #65a4ec;
+    background-color: #eca265;
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -59,13 +59,14 @@ body {
 }
 
 .mobile-menu {
+    opacity: 0.6;
     display: none;
     position: fixed;
     top: 0;
     right: 0;
-    width: 60%;
+    width: 50%;
     height: 100%;
-    background-color: rgba(69, 145, 233, 0.6);
+    background-color: #eca265;
     flex-direction: column;
     align-items: center;
     font-size: 1.8rem;
@@ -134,7 +135,7 @@ body {
 }
 
 .container h1 {
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(8px);
     color: #fff;
     width: 100%;
     font-size: 5rem;
@@ -145,9 +146,9 @@ body {
 
 .container button {
     opacity: 0.9;
-    border: 2px solid #24c31c;
+    border: 2px solid #0d0e0d;
     background-color: #fff;
-    color: #24c31c;
+    color: #000000;
     font-size: 2rem;
     padding: 1rem 2rem;
     transition: 0.4s;
