@@ -17,7 +17,8 @@ body {
 }
 
 .navbar {
-    background-color: ##FFC100;
+    opacity: 0.8;
+    background-color: #f7bf18;
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -66,7 +67,7 @@ body {
     right: 0;
     width: 50%;
     height: 100%;
-    background-color: ##FFC100;
+    background-color: #F7bf18;
     flex-direction: column;
     align-items: center;
     font-size: 1.8rem;
