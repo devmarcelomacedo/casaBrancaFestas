@@ -136,7 +136,7 @@ body {
 }
 
 .container h1 {
-    backdrop-filter: blur(8px);
+    backdrop-filter: blur(6px);
     color: #fff;
     width: 100%;
     font-size: 5rem;
