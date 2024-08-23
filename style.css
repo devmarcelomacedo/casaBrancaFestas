@@ -71,7 +71,7 @@ body {
     flex-direction: column;
     align-items: center;
     font-size: 1.8rem;
-    z-index: 7;
+    z-index: 8;
 
 
     .nav-links-mobile {
