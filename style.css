@@ -67,11 +67,11 @@ body {
     right: 0;
     width: 50%;
     height: 100%;
-    background-color: #F7bf18;
+   
     flex-direction: column;
     align-items: center;
     font-size: 1.8rem;
-    z-index: 8;
+    z-index: 9;
 
 
     .nav-links-mobile {
@@ -136,7 +136,7 @@ body {
 }
 
 .container h1 {
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(2px);
     color: #fff;
     width: 100%;
     font-size: 5rem;
